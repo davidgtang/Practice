@@ -32,5 +32,7 @@ Visit this [repository by clicking](repo)
 - [x] click this
 - [ ] do not click
 
+![CARLOS FUERTE](https://s3.amazonaws.com/cuttings/backgrounds/291230/Charlie%20Strong.jpg)
+
 This short thing is looking pretty good :+1:
 [repo]:https://github.com/davidgtang/Practice
