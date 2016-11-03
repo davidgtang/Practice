@@ -21,7 +21,7 @@ a='This is a string'
 b=[1,2,3]
 ```
 
-Visit this [repository by clicking](https://github.com/davidgtang/Practice)
+Visit this [repository by clicking](repo)
 
 - List1
 - List2
@@ -33,3 +33,4 @@ Visit this [repository by clicking](https://github.com/davidgtang/Practice)
 - [ ] do not click
 
 This short thing is looking pretty good :+1:
+[repo]:https://github.com/davidgtang/Practice
