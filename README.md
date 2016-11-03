@@ -15,7 +15,13 @@ git add
 git committ
 ```
 
-Visit this [repository](https://github.com/davidgtang/Practice)
+Python coloring
+```python
+a='This is a string'
+b=[1,2,3]
+```
+
+Visit this [repository by clicking](https://github.com/davidgtang/Practice)
 
 - List1
 - List2
@@ -25,3 +31,5 @@ Visit this [repository](https://github.com/davidgtang/Practice)
 
 - [x] click this
 - [ ] do not click
+
+
