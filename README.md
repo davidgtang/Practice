@@ -14,4 +14,4 @@ git add
 git committ
 ```
 
-Visit this [repository](htttps://github.com/davidgtang/Practice)
+Visit this [repository](https://github.com/davidgtang/Practice)
