@@ -21,7 +21,7 @@ Visit this [repository](https://github.com/davidgtang/Practice)
 - List2
 
 1. Big thing
-  a. Smaller thing
+  1. Smaller thing
 
 - [x] click this
-
+- [ ] do not click
