@@ -1,4 +1,5 @@
 # Basic stuff
+A quick guide to git.
 
 ## Staging, Status of Changes
 `git status`
@@ -49,3 +50,13 @@ To update from the remote
 All fetch does is pull data down from repository, it doesn't merge any changes.
 
 `git pull` on the other hand, does try and merge changes.
+
+To push to remotes:
+`git push [remote name][branch]`  
+Example: `git push origin master`
+
+`git remote show [remote-name]`
+Used to show information about the remote.
+
+## Tag section
+Info coming later...
