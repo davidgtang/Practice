@@ -18,7 +18,7 @@ M  file2    (Modified and staged)
 MM file3    (Staged one version, then changes made that are unstaged)
 A  file4    (Adde new file)
 ```
-##
+
 `git diff`
 Show changes that are unstaged.
 
@@ -26,4 +26,9 @@ Show changes that are unstaged.
 Changes in stage that will go into next commit.
 
 ## Committing
-After adding stuff, commit `-v-`
+After adding stuff, `git commit` to finalize.
+`-v`
+Comments showing changes
+
+`-a`
+Skips the "add" stage. Adds everything for you.
