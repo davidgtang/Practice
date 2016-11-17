@@ -1,5 +1,6 @@
 # Basic stuff
 A quick guide to git.
+https://git-scm.com/book/en/v2
 
 ## Staging, Status of Changes
 `git status`
